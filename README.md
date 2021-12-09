@@ -1,6 +1,7 @@
-# snakegame
+# NOODLE
 A classic snake game made using python but a few extra features ;)
 
+The name of the snake is CARLOS
 The regular python game made using curses module.
 The instructions are:
   Navigate using the arrow keys.
@@ -18,3 +19,4 @@ Features added in the game are:
   Power fruit
   The snake glows when powers are online
   Saving Highscore
+  Displaying Highscore

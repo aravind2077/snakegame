@@ -37,4 +37,5 @@ Converted the Python file into a .exe file
 Problem with application:
   Takes approximately 1 min after opening to load.
   Reason: Unknown.
+  File size exceeds 300 MB.
   

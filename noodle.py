@@ -76,7 +76,7 @@ def start():
     key = curses.KEY_RIGHT
     while key != ESC:
         win.addstr(0, 2, 'SCORE ' + str(score) + ' ')
-        win.addstr(0, 10, 'HIGHSCORE ' + str(highscore) + ' ')
+        win.addstr(0, 20, 'HIGHSCORE ' + str(highscore) + ' ')
         win.timeout(150 - (len(snake)) // 5 + len(snake)//10 % 120) # increase speed
 
         prev_key = key

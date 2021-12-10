@@ -2,24 +2,40 @@
 A classic snake game made using python but a few extra features ;)
 
 The name of the snake is CARLOS
+
 The regular python game made using curses module.
+
 The instructions are:
+
   Navigate using the arrow keys.
+  
   Eat fruits to gain points.
+  
   Don't eat yourself.
+  
   Don't run into walls.
+  
     Failure to comlply results in losing the game.
     
   Power fruits are dropped after every 10 points.
+  
     Power fruits give extra points.
+    
     Ability to go through walls is achieved.
+    
     Powers last 40 seconds so be careful.
     
+    
 Features added in the game are:
+
   Power fruit
+  
   The snake glows when powers are online
+  
   Saving Highscore
+  
   Displaying Highscore
+  
 ![Screenshot (164)](https://user-images.githubusercontent.com/91046698/145558456-b41d4dc3-a5ce-41c7-bc56-9af804c0c468.png)
 ![Screenshot (165)](https://user-images.githubusercontent.com/91046698/145558459-6c2d572f-f047-4ffb-8cfe-87ade1f97651.png)
 ![Screenshot (166)](https://user-images.githubusercontent.com/91046698/145558461-c873678e-d477-4bac-ab3a-a5d4838609d6.png)
